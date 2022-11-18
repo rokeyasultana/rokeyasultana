@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 <br>🌱 I’m currently learning Node.js & Redux<br><br>💬 Ask me about JavaScript & React<br><br>📫 How to reach me 
-rokeyasultanas03@gmail.com
+rokeyasbd@gmail.com
 
 
 ## 🌐 Socials:
